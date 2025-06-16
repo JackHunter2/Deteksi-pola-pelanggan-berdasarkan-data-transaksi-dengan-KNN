@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    color: #0d6efd;
+}
+form h5 {
+    font-weight: bold;
+}
+.table {
+    background-color: white;
+}
+.alert-success {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
